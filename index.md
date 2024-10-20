@@ -9,8 +9,8 @@ My understanding of investing is based on the following key principles, which I 
 
 1. **Value Investing**: I focus on finding quality companies that are undervalued by the market and gaining capital appreciation through long-term holding.
 2. **Risk Diversification**: I diversify my investments across multiple sectors and asset classes to reduce the risk of volatility in a single market or industry.
-3. Macroeconomic Analysis: Before making an investment decision, I first consider global macroeconomic changes and understand their potential impact on various types of assets.
-4. Solid returns: I pursue long-term solid returns, not short-term speculation.
+3. **Macroeconomic Analysis**: Before making an investment decision, I first consider global macroeconomic changes and understand their potential impact on various types of assets.
+4. **Solid returns**: I pursue long-term solid returns, not short-term speculation.
 
 As a beginner in finance, I gradually realized the importance of financial statements. Although it was not easy for me to read these reports at first, through repeated study and research, I found that they can clearly reflect a company's operating conditions and market performance.
 
