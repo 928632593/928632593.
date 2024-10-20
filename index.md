@@ -1,29 +1,24 @@
-# 欢迎来到夏泽雨的个人金融风格展示网站
+# Welcome to click on Xia Zeyu's personal financial resume to share
 
-这是我的个人网站，旨在分享我对投资、市场分析和金融策略的独到见解。
+This is my personal website for my unique insights into investing, market analysis, and financial strategies.
 
-## 关于我
-我是一位对金融充满热情的投资者，经过多年的经验积累，我形成了一套独特的投资风格。我相信，通过深入的市场研究和科学的风险管理，能够在波动的市场中获得长期稳定的回报。
+## About me
+  I am a student who is passionate about finance, and I am a student of Lingnan Convergence Technology this year, with a bachelor's degree in finance, and I have a unique and special understanding of finance, especially combined with computer technology in the new era.
+## My financial style
+My understanding of investing is based on the following key principles, which I would recommend if I were an investor:
 
-## 我的金融风格
-我的投资风格基于以下几个关键原则：
+1. Value Investing: I focus on finding quality companies that are undervalued by the market and gaining capital appreciation through long-term holding.
+2. Risk Diversification: I diversify my investments across multiple sectors and asset classes to reduce the risk of volatility in a single market or industry.
+3. Macroeconomic Analysis: Before making an investment decision, I first consider global macroeconomic changes and understand their potential impact on various types of assets.
+4. Solid returns: I pursue long-term solid returns, not short-term speculation.
 
-1. **价值投资**：我注重寻找被市场低估的优质公司，通过长期持有获得资本增值。
-2. **风险分散**：我将投资分散于多个行业和资产类别，以降低单一市场或行业波动带来的风险。
-3. **宏观经济分析**：在做出投资决策前，我会首先考虑全球宏观经济的变化，了解其对各类资产的潜在影响。
-4. **稳健回报**：我追求长期的稳健收益，而不是短期的投机行为。
+  As a beginner in finance, I gradually realized the importance of financial statements. Although it was not easy for me to read these reports at first, through repeated study and research, I found that they can clearly reflect a company's operating conditions and market performance.
 
-## 市场分析
-我定期跟踪全球主要市场的表现，并结合经济数据、行业趋势和公司财务状况，做出理性判断。以下是我通常关注的几个方面：
+  I like to gain insight into the financial health of a company by reading its balance sheet, income statement, and cash flow statement. Especially when evaluating a company's profitability and growth potential, the key data in the report provides a very valuable reference. For example, changes in revenue, profit growth trends, and the stability of cash flow can all reflect a company's competitiveness in the market.
 
-- **全球股市表现**：通过跟踪全球主要股市的走势，分析不同地区的投资机会。
-- **行业趋势**：研究技术、医疗、能源等行业的最新发展趋势，以寻找未来的增长点。
-- **经济数据**：如GDP增长率、失业率、通胀等关键经济数据对市场的潜在影响。
+## Portfolio
+My portfolio spans a wide range of sectors, including technology, finance, consumer goods and healthcare. I focus on growth, financially healthy companies that are held for the long term to add value.
 
-## 投资组合
-我的投资组合涵盖多个行业，包括科技、金融、消费品和医疗保健等。我将重点放在成长性强、财务健康的公司，长期持有以实现价值增值。
-
-## 联系我
-如果你对我的投资策略感兴趣或想讨论更多的金融话题，请通过以下方式与我联系：
-- 邮箱：928632593@eqq.com
-
+## Contact me
+If you are interested in my investment strategy or would like to discuss more financial topics, please contact me at:
+- Email: 928632593@eqq.com
