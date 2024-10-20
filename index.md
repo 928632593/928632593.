@@ -2,9 +2,9 @@
 
 This is my personal website for my unique insights into investing, market analysis, and financial strategies.
 
-## About me
+## About me    ![金币](https://github.com/928632593/928632593./blob/main/OIP%20(1).jpg?raw=true)
 I am a student who is passionate about finance, and I am a student of Lingnan Convergence Technology this year, with a bachelor's degree in finance, and I have a unique and special understanding of finance, especially combined with computer technology in the new era.
-## My financial style ![金融](https://github.com/928632593/928632593./blob/main/OIP.jpg?raw=true)
+## My financial style       ![金融](https://github.com/928632593/928632593./blob/main/OIP.jpg?raw=true)   
 My understanding of investing is based on the following key principles, which I would recommend if I were an investor:
 
 1. **Value Investing**: I focus on finding quality companies that are undervalued by the market and gaining capital appreciation through long-term holding.
