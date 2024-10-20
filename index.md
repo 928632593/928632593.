@@ -8,7 +8,7 @@ I am a student who is passionate about finance, and I am a student of Lingnan Co
 My understanding of investing is based on the following key principles, which I would recommend if I were an investor:
 
 1. **Value Investing**: I focus on finding quality companies that are undervalued by the market and gaining capital appreciation through long-term holding.
-2. Risk Diversification: I diversify my investments across multiple sectors and asset classes to reduce the risk of volatility in a single market or industry.
+2. **Risk Diversification**: I diversify my investments across multiple sectors and asset classes to reduce the risk of volatility in a single market or industry.
 3. Macroeconomic Analysis: Before making an investment decision, I first consider global macroeconomic changes and understand their potential impact on various types of assets.
 4. Solid returns: I pursue long-term solid returns, not short-term speculation.
 
@@ -21,4 +21,4 @@ I think people's portfolios span multiple sectors, including technology, finance
 
 ## Contact me
 If you are interested in my idea of an investment understanding or would like to discuss more financial topics, please contact me at:
-- Email: 928632593@eqq.com
+- Email: 928632593@qq.com
