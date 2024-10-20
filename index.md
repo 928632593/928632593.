@@ -1,123 +1,29 @@
----
-layout: default
----
+# 欢迎来到夏泽雨的个人金融风格展示网站
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+这是我的个人网站，旨在分享我对投资、市场分析和金融策略的独到见解。
 
-[Link to another page](./another-page.html).
+## 关于我
+我是一位对金融充满热情的投资者，经过多年的经验积累，我形成了一套独特的投资风格。我相信，通过深入的市场研究和科学的风险管理，能够在波动的市场中获得长期稳定的回报。
 
-There should be whitespace between paragraphs.
+## 我的金融风格
+我的投资风格基于以下几个关键原则：
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+1. **价值投资**：我注重寻找被市场低估的优质公司，通过长期持有获得资本增值。
+2. **风险分散**：我将投资分散于多个行业和资产类别，以降低单一市场或行业波动带来的风险。
+3. **宏观经济分析**：在做出投资决策前，我会首先考虑全球宏观经济的变化，了解其对各类资产的潜在影响。
+4. **稳健回报**：我追求长期的稳健收益，而不是短期的投机行为。
 
-# Header 1
+## 市场分析
+我定期跟踪全球主要市场的表现，并结合经济数据、行业趋势和公司财务状况，做出理性判断。以下是我通常关注的几个方面：
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **全球股市表现**：通过跟踪全球主要股市的走势，分析不同地区的投资机会。
+- **行业趋势**：研究技术、医疗、能源等行业的最新发展趋势，以寻找未来的增长点。
+- **经济数据**：如GDP增长率、失业率、通胀等关键经济数据对市场的潜在影响。
 
-## Header 2
+## 投资组合
+我的投资组合涵盖多个行业，包括科技、金融、消费品和医疗保健等。我将重点放在成长性强、财务健康的公司，长期持有以实现价值增值。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 联系我
+如果你对我的投资策略感兴趣或想讨论更多的金融话题，请通过以下方式与我联系：
+- 邮箱：928632593@eqq.com
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
